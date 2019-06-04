@@ -37,10 +37,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5FD44060-B4A3-4384-AEA6-6AFA8EBA1346",
+  "do_objectID": "C93DA06E-F331-455A-9AA0-E9B1BB3CD8EE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DB744C2E-A5AA-4A70-B2E9-EFBE54566A8A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,10 +52,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "13C0DFB2-E788-40F1-BB4E-09D1185070C4",
     "height": 25,
     "width": 335,
-    "x": 106,
-    "y": 81
+    "x": 0,
+    "y": 244
   },
   "glyphBounds": "{{70, 2}, {195, 14}}",
   "hasClippingMask": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Influencing The Infl",
+  "name": "Influencing The Infl Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,11 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9F359E09-F8D4-489D-A31F-3CF7EB0A804E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7123DE7C-37E6-4049-8F61-D5908A17506F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
